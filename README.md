@@ -86,6 +86,14 @@ values | ✅ |
 delete | ✅ |
 entries | ✅ |
 
+## Storage
+localStorage & sessionStorage:
+clear  | ✅ | 
+setItem  | ✅ |
+get Item  | ✅ |
+key  | ✅ |
+removeItem  | ✅ |
+
 ## Patterns
 Patterns:
 name | Status |
